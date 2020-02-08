@@ -5,6 +5,9 @@ import './index.css'
 
 export default function AppBar() {
     return (
-        <div className="ui-app-bar">121212</div>
+        <div className="ui-app-bar">
+            物理
+            <a href="https://project.yunser.com/products/40e5c1403c0a11ea802c7bf422d9ae81" target="_blank">帮助</a>
+        </div>
     )
 }
